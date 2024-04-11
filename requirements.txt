@@ -1,0 +1,5 @@
+sentence_transformers==2.2.2
+langchain
+langchain-together
+faiss-cpu
+InstructorEmbedding
